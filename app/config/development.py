@@ -8,4 +8,4 @@ PGDATABASE = os.getenv("PGDATABASE")
 PGPORT = os.getenv("PGPORT")
 VERSION = os.getenv("VERSION")
 
-DEBUG = True
+DEBUG = False

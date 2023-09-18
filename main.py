@@ -10,6 +10,8 @@ from app.services.database import create_db_engine
 print(os.getcwd())
 # Initialize the Flask app
 app = Flask(__name__)
+# Listen to 0.0.0.0 instead of localhost so that the app is accessible from outside the container
+
 
 # CORS
 CORS(app, resources={r"/api/*": {"origins": "http://localhost:5173"}})
@@ -34,4 +36,4 @@ def shutdown_session(exception=None):
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
