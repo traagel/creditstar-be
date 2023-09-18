@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 
 # CORS
-CORS(app, resources={r"/api/*": {"origins": "http://localhost:5173"}})
+CORS(app, resources={r"/api/*": {"origins": "http://localhost:8080"}})
 
 # Load configurations (you can adjust this as needed, e.g., based on environment variables or other settings)
 app.config.from_object("app.config.development")  # You can use app.config.production in a production environment
@@ -36,4 +36,4 @@ def shutdown_session(exception=None):
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8080, debug=True)
+    app.run(host="0.0.0.0", port=3000, debug=True)
