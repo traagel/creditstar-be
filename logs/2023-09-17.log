@@ -1,0 +1,117 @@
+2023-09-17 02:56:00,122 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-17 02:56:00,122 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2023-09-17 02:56:00,122 INFO werkzeug MainThread :  * Restarting with stat
+2023-09-17 02:56:00,272 WARNING werkzeug MainThread :  * Debugger is active!
+2023-09-17 02:56:00,272 INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+2023-09-17 02:56:15,584 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 02:56:15] "GET / HTTP/1.1" 200 -
+2023-09-17 02:56:50,523 INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+2023-09-17 02:56:50,563 INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 02:56:50 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 02:56:50 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 02:57:30 AM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+2023-09-17 02:57:30,962 INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 02:57:31 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 02:57:31 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 02:57:53 AM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+2023-09-17 02:57:53,289 INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 02:57:53 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 02:57:53 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 02:57:59 AM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+2023-09-17 02:57:59,517 INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 02:57:59 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 02:57:59 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 02:58:27 AM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+2023-09-17 02:58:27,847 INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 02:58:28 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 02:58:28 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 02:58:33 AM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+2023-09-17 02:58:33,073 INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 02:58:33 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 02:58:33 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 02:59:02 AM INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17/09/2023 02:59:02 AM INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+17/09/2023 02:59:02 AM INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 02:59:02 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 02:59:02 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 02:59:06 AM INFO root Thread-2 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/, Data: b''
+17/09/2023 02:59:06 AM INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 02:59:06] "GET / HTTP/1.1" 200 -
+17/09/2023 02:59:33 AM INFO root Thread-3 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/loans/1, Data: b''
+17/09/2023 02:59:33 AM INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 02:59:33] "[33mGET /api/v1/data/loans/1 HTTP/1.1[0m" 404 -
+17/09/2023 03:01:29 AM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+17/09/2023 03:01:29 AM INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 03:01:29 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 03:01:29 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 03:01:43 AM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+17/09/2023 03:01:43 AM INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 03:01:43 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 03:01:43 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 03:02:09 AM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+17/09/2023 03:02:09 AM INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 03:02:10 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 03:02:10 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 03:02:16 AM INFO root Thread-2 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/, Data: b''
+17/09/2023 03:02:16 AM INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 03:02:16] "GET / HTTP/1.1" 200 -
+17/09/2023 03:02:22 AM INFO root Thread-3 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/loan/1, Data: b''
+17/09/2023 03:02:22 AM INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 03:02:22] "[33mGET /api/v1/data/loan/1 HTTP/1.1[0m" 404 -
+17/09/2023 03:02:39 AM INFO root Thread-4 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/loans/1, Data: b''
+17/09/2023 03:02:40 AM INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 03:02:40] "GET /api/v1/data/loans/1 HTTP/1.1" 200 -
+17/09/2023 03:02:44 AM INFO root Thread-5 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/loans/2, Data: b''
+17/09/2023 03:02:46 AM INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 03:02:46] "GET /api/v1/data/loans/2 HTTP/1.1" 200 -
+17/09/2023 03:02:55 AM INFO root Thread-6 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/loans/3, Data: b''
+17/09/2023 03:02:56 AM INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 03:02:56] "GET /api/v1/data/loans/3 HTTP/1.1" 200 -
+17/09/2023 03:03:01 AM INFO root Thread-7 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/loans/2, Data: b''
+17/09/2023 03:03:02 AM INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 03:03:02] "GET /api/v1/data/loans/2 HTTP/1.1" 200 -
+17/09/2023 03:03:09 AM INFO root Thread-8 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/loans/1, Data: b''
+17/09/2023 03:03:10 AM INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 03:03:10] "GET /api/v1/data/loans/1 HTTP/1.1" 200 -
+17/09/2023 03:04:07 AM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+17/09/2023 03:04:07 AM INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 03:04:07 AM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 03:04:07 AM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 03:42:04 PM INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17/09/2023 03:42:04 PM INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+17/09/2023 03:42:04 PM INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 03:42:04 PM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 03:42:04 PM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 03:42:08 PM INFO root Thread-2 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/344-17-0576, Data: b''
+17/09/2023 03:42:10 PM INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:42:10] "GET /api/v1/data/users/344-17-0576 HTTP/1.1" 200 -
+17/09/2023 03:42:11 PM INFO root Thread-3 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/2/loans, Data: b''
+17/09/2023 03:42:11 PM INFO root Thread-4 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/2/loans, Data: b''
+17/09/2023 03:42:13 PM INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:42:13] "GET /api/v1/data/users/2/loans HTTP/1.1" 200 -
+17/09/2023 03:42:13 PM INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:42:13] "GET /api/v1/data/users/2/loans HTTP/1.1" 200 -
+17/09/2023 03:43:44 PM INFO root Thread-5 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/344-17-0576, Data: b''
+17/09/2023 03:43:45 PM INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:43:45] "GET /api/v1/data/users/344-17-0576 HTTP/1.1" 200 -
+17/09/2023 03:43:45 PM INFO root Thread-6 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/2/loans, Data: b''
+17/09/2023 03:43:47 PM INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:43:47] "GET /api/v1/data/users/2/loans HTTP/1.1" 200 -
+17/09/2023 03:44:04 PM INFO root Thread-7 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/510-50-5907, Data: b''
+17/09/2023 03:44:05 PM INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:44:05] "GET /api/v1/data/users/510-50-5907 HTTP/1.1" 200 -
+17/09/2023 03:44:05 PM INFO root Thread-8 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/1/loans, Data: b''
+17/09/2023 03:44:07 PM INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:44:07] "GET /api/v1/data/users/1/loans HTTP/1.1" 200 -
+17/09/2023 03:44:10 PM INFO root Thread-9 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/1/loans, Data: b''
+17/09/2023 03:44:10 PM INFO root Thread-10 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/1/loans, Data: b''
+17/09/2023 03:44:11 PM INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:44:11] "GET /api/v1/data/users/1/loans HTTP/1.1" 200 -
+17/09/2023 03:44:11 PM INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:44:11] "GET /api/v1/data/users/1/loans HTTP/1.1" 200 -
+17/09/2023 03:50:37 PM INFO root Thread-11 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/loans/3/payments, Data: b''
+17/09/2023 03:50:37 PM INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:50:37] "[33mGET /api/v1/loans/3/payments HTTP/1.1[0m" 404 -
+17/09/2023 03:59:30 PM INFO root Thread-12 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/loans, Data: b''
+17/09/2023 03:59:30 PM INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:59:30] "[33mGET /api/v1/loans HTTP/1.1[0m" 404 -
+17/09/2023 03:59:38 PM INFO root Thread-13 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/loans/1/payments, Data: b''
+17/09/2023 03:59:39 PM INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:59:39] "[33mGET /api/v1/data/loans/1/payments HTTP/1.1[0m" 404 -
+17/09/2023 03:59:43 PM INFO root Thread-14 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/loans/2/payments, Data: b''
+17/09/2023 03:59:45 PM INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:59:45] "[33mGET /api/v1/data/loans/2/payments HTTP/1.1[0m" 404 -
+17/09/2023 03:59:50 PM INFO root Thread-15 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/loans/3/payments, Data: b''
+17/09/2023 03:59:51 PM INFO werkzeug Thread-15 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 15:59:51] "GET /api/v1/data/loans/3/payments HTTP/1.1" 200 -
+17/09/2023 04:04:11 PM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+17/09/2023 04:04:11 PM INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 04:04:11 PM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 04:04:11 PM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 04:04:34 PM INFO werkzeug MainThread :  * Detected change in '/home/mart/git/creditstar-be/main.py', reloading
+17/09/2023 04:04:34 PM INFO werkzeug MainThread :  * Restarting with stat
+17/09/2023 04:04:35 PM WARNING werkzeug MainThread :  * Debugger is active!
+17/09/2023 04:04:35 PM INFO werkzeug MainThread :  * Debugger PIN: 965-012-151
+17/09/2023 04:07:37 PM INFO root Thread-2 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/1/payments, Data: b''
+17/09/2023 04:07:38 PM INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 16:07:38] "[33mGET /api/v1/data/users/1/payments HTTP/1.1[0m" 404 -
+17/09/2023 04:07:43 PM INFO root Thread-3 (process_request_thread) : IP: [], Method: GET, URL: http://127.0.0.1:5000/api/v1/data/users/2/payments, Data: b''
+17/09/2023 04:07:44 PM INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [17/Sep/2023 16:07:44] "GET /api/v1/data/users/2/payments HTTP/1.1" 200 -
