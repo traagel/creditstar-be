@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 
 # CORS
-CORS(app, resources={r"/api/*": {"origins": "http://localhost:8080"}})
+CORS(app, resources={r"/api/*": {"origins": "https://creditstar-fe-production.up.railway.app/"}})
 
 # Load configurations (you can adjust this as needed, e.g., based on environment variables or other settings)
 app.config.from_object("app.config.development")  # You can use app.config.production in a production environment
